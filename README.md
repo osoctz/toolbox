@@ -16,3 +16,4 @@
 | 10 | llm/webui.py                            | 基于chainlit的大模型对话窗口            |
 | 11 | embedding/nomic_embeddings.py           | 基于langchain接口实现embedding模型的封装 |
 | 12 | ReAct/custom_qwen_demo.py               | ReAct实现                       |
+| 13 | locust/paddle_ocr.py                    | 基于locust测试脚本编写                |
